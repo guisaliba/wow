@@ -1,3 +1,3 @@
-### JavaScript Background Color Changer
+# JavaScript Background Color Changer
 
-## wow.
+### wow.
