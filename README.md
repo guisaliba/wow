@@ -1,5 +1,5 @@
 <samp>
-# wow, that's cool!
+wow, that's cool!
   
 ## Description
 
