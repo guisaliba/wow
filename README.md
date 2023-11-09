@@ -1,7 +1,6 @@
-# wow, that's cool!
-
 <samp>
-
+# wow, that's cool!
+  
 ## Description
 
 This is a simple JavaScript background color changer. And wow, that's cool, huh?
