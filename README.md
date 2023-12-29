@@ -28,5 +28,5 @@ You are free to use this project as you wish. To clone the repository, run the f
 git clone https://github.com/guisaliba/wow.git
 ```
 
-And then run `index.html` with Live Server to visualzie it on your browser.
+And then run `index.html` with Live Server to visualize it on your browser.
 </samp>
