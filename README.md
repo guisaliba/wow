@@ -10,7 +10,7 @@ This is a simple JavaScript background color changer. And wow, that's pretty coo
 
 ## Live Demo
 
-You can check it out live at: https://wow-thats-cool.vercel.app/
+You can check it out live at: https://wow-thats-cool.vercel.app/.
 
 ## Technologies
 
