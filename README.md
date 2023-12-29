@@ -1,9 +1,11 @@
 <samp>
-> wow, that's cool!
   
+<h1 align=center>
+  wow (that's cool, huh?)
+</h1>  
 ## Description
 
-This is a simple JavaScript background color changer. And wow, that's cool, huh?
+This is a simple JavaScript background color changer. And wow, that's pretty cool, huh?
 
 ## Live Demo
 
